@@ -31,19 +31,17 @@ dependencies :
 
 Installation
  1.Clone the repository:
+ git clone: https://github.com/madhaverma/web-blog-application
  
-  git clone: https://github.com/madhaverma/web-blog-application
 2. Navigate to the project directory:
+ cd blog-application
 
-  cd blog-application
 3.Install dependencies:
-
   npm install
+  
 4.Start the application:
-
   node index.js
 5.Open your browser and visit:
-
   http://localhost:3000
 
 
